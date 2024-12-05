@@ -4,7 +4,7 @@ let canvas;
 let context;
 
 // Event listener to load the image
-document.getElementById('upload').addEventListener('change', loadImage);
+document.getElementById('upload').addEventListener('change', loadImage);     
 
 function loadImage(event) {
     const file = event.target.files[0];
