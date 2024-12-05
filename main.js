@@ -1,4 +1,4 @@
-// Global variable to hold the image and canvas context
+   // Global variable to hold the image and canvas context
 let img;
 let canvas;
 let context;
