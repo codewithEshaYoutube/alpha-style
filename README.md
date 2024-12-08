@@ -1,6 +1,6 @@
   # Alpha Project
 
-Welcome to the **Alpha Project**! This is a modern, innovative web application that showcases my skills in creating cutting-edge solutions. The project is built using the latest technologies and practices, and it's designed to demonstrate my proficiency in **frontend development**, **backend development**, and **full-stack programming**.
+  Welcome to the **Alpha Project**! This is a modern, innovative web application that showcases my skills in creating cutting-edge solutions. The project is built using the latest technologies and practices, and it's designed to demonstrate my proficiency in **frontend development**, **backend development**, and **full-stack programming**.
 
 ---
 
